@@ -1,5 +1,6 @@
 <div align=center>
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=CCCCC8&height=150&section=header&text=JinHo&fontSize=100" />
+![header](https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&text=Welcome%20to%20JinHo's%20GitHub%20👋&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
+
 
 
 🙌 Introduction<br>
