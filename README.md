@@ -29,7 +29,7 @@
 
 ### 🔴 REACT
 ⚽ Soccer Youtube
- [view](https://zino-react-youtube.netlify.app/) [code](https://github.com/jinhomun/react-youtube)<br>
+ [view](https://youtube-project2023-jinhomun.netlify.app/) [code](https://github.com/jinhomun/SoccerYoutube-site)<br>
 💪 Portfolio Site
 [view](https://react-project0106-439eb.web.app/) [code](https://github.com/jinhomun/react-project)<br>
 📰Site
