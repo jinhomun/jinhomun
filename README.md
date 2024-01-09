@@ -12,31 +12,40 @@ Nothing great in the world has been accomplished without passion.
 ## 📄Project
 
 ### 🔴 REACT
-⚽ Soccer Youtube - [GitHub](https://github.com/jinhomun/SoccerYoutube-site)  
+⚽ Soccer Youtube - [GitHub](https://github.com/jinhomun/SoccerYoutube-site)    
+평소 축구소식에 대해서 많이 찾아보기때문에 유튜브 API를 이용해 축구소식를 볼수 있는 축구 관련 유튜브를 모아둔 축구 유튜브 사이트 입니다.<br> 
 [요즘 축구소식 영상은 여기서 보세요!](https://youtube-project2023-jinhomun.netlify.app/) <br>
 
 ⚽ Kick off (Team Project) - [GitHub](https://github.com/audgns722/kickoff)
 <br>
 
 💪 Portfolio Site - [GitHub](https://github.com/jinhomun/Portfolio-react)   
+Portfolio는 React와 Gsap를 이용해서 제작한 사이트입니다.    
 [제가 궁금하시면 여기서 보세요!](https://react-project0106-439eb.web.app/)<br>
 
 ### 🟡 Vue
 🎥 On Movie site - [GitHub](https://github.com/jinhomun/OnMovie-site)    
+On Movie는 Vue.js의 기능을 활용하여 영화 정보를 편리하게 찾을 수 있는 사이트입니다.    
 [요즘 영화 궁금하시면 여기서 보세요!](https://react-project0106-439eb.web.app/)<br>
 
 ### 🔵 PHP
-🥼Gogyobok-site (Team Project) - [GitHub](https://github.com/jinhomun/Gogyobok-site)   
- [전국 고등학교 교복이 궁금하시면 여기서 보세요!](http://answlsgh95.dothome.co.kr/blog_php/main/main.php) <br>
+🥼Gogyobok-site (Team Project) - [GitHub](https://github.com/jinhomun/Gogyobok-site)     
+전국 고등학교의 교복을 소개하는 커뮤니티 사이트를 제작하였습니다.   
+[전국 고등학교 교복이 궁금하시면 여기서 보세요!](http://answlsgh95.dothome.co.kr/blog_php/main/main.php) <br>
 
 ### 🟠 Javascript
-💪 GSAP-ParallaxEffect - [GitHub](https://github.com/jinhomun/GSAP-ParallaxEffect)    
-  [GSAP-ParallaxEffect 궁금하시면 여기서 보세요!](https://jinhomun.github.io/webs2024/javascript/gsap/gsap01.html) <br>
-✍ Quiz -  [GitHub](https://github.com/jinhomun/GSAP-ParallaxEffect)
+💪 GSAP-ParallaxEffect - [GitHub](https://github.com/jinhomun/GSAP-ParallaxEffect)   
+GSAP을 사용하면 웹 페이지의 다양한 요소들을 부드럽고 멋진 애니메이션으로 만들 수 있습니다.      
+[GSAP-ParallaxEffect 궁금하시면 여기서 보세요!](https://jinhomun.github.io/webs2024/javascript/gsap/gsap01.html) <br>
+
+✍ Quiz - [GitHub](https://github.com/jinhomun/QuizEffect)   
+객관식과 주관식의 유형의 퀴즈를 만들어보았고, JSON파일의 데이터를 출력하는 방법을 배웠습니다.   
+[Quiz 궁금하시면 여기서 보세요!](https://jinhomun.github.io/webs2024/javascript/quiz/quizEffect01.html) <br>
+
+🔍 Search - [GitHub](https://github.com/jinhomun/QuizEffect)   
+다양한 Method를 이용해서 CSS속성을 검색 할수 있도록 만들었습니다.<br>
+[다양한 CSS속성 Search 하러 오세요!](https://jinhomun.github.io/webs2024/javascript/search/index.html)<br>
 <br>
-
-
-
 
 
 <h2>🔨Skill</h2>
