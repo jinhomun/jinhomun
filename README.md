@@ -2,53 +2,100 @@
 <img src="https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&text=Welcome%20to%20JinHo's%20GitHub%20👋&fontSize=50" />
 
 <br>
-<h1>🙍‍♂️Introduction</h1>
-<h3>안녕하세요! 저는 프론트 개발자되기 위해서 현재 공부중입니다.<br>
-아직은 많이 부족하지만, 열심히 해쳐나갈 준비가 된 개발자입니다!</h3>
+<h2>🙍‍♂️Introduction</h2>
+<h4>안녕하세요! 저는 프론트 개발자되기 위해서 현재 공부중인 문진호 입니다.<br>
+아직은 많이 부족하지만, 열심히 해쳐나갈 준비가 된 개발자입니다!</h4>
 
-<div>
-  <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"></a>
-  <a href="#"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?logo=HTML5&logoColor=white"></a>
-  <a href="#"><img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?logo=CSS3&logoColor=white"></a>
-  <a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?logo=PHP&logoColor=white"></a>
-  <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000?logo=Markdown&logoColor=white"></a>
-  <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=Node.js&logoColor=white"></a>
-  <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=white"></a>
-  <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?logo=Bootstrap&logoColor=white"></a>
-  <a href="#"><img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=white"></a>
-  <a href="#"><img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-4FC08D?logo=Vue.js&logoColor=white"></a>
-  <a href="#"><img alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD?logo=jQuery&logoColor=white"></a>
-  <a href="#"><img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?logo=Netlify&logoColor=white"></a>
-  <a href="#"><img alt="phpMyAdmin" src="https://img.shields.io/badge/phpMyAdmin-6C78AF?logo=phpMyAdmin&logoColor=white"></a>
-  <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000?logo=Adobe&logoColor=white"></a>
-  <a href="#"><img alt="CodePen" src="https://img.shields.io/badge/CodePen-000?logo=CodePen&logoColor=white"></a>
-  <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=white"></a>
-  <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=Postman&logoColor=white"></a>
-  <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=Visual Studio Code&logoColor=white"></a>
-</div>
+Nothing great in the world has been accomplished without passion.
+<br>
+
+## 📄Project
 
 ### 🔴 REACT
-⚽ Soccer Youtube
- [view](https://youtube-project2023-jinhomun.netlify.app/) [code](https://github.com/jinhomun/SoccerYoutube-site)<br>
-💪 Portfolio Site
-[view](https://react-project0106-439eb.web.app/) [code](https://github.com/jinhomun/react-project)<br>
-📰Site
-[view](https://zino-react-webpage.netlify.app/) [code](https://github.com/jinhomun/react_webpage) <br>
-### 🟠 VITE
-💪 Portfolio Site 
-[view](https://zino-vit-project.netlify.app/) [code](https://github.com/jinhomun/vite-project) <br>
+⚽ Soccer Youtube - [GitHub](https://github.com/jinhomun/SoccerYoutube-site)  
+[요즘 축구소식 영상은 여기서 보세요!](https://youtube-project2023-jinhomun.netlify.app/) <br>
+
+⚽ Kick off (Team Project) - [GitHub](https://github.com/audgns722/kickoff)
+<br>
+
+💪 Portfolio Site - [GitHub](https://github.com/jinhomun/Portfolio-react)   
+[제가 궁금하시면 여기서 보세요!](https://react-project0106-439eb.web.app/)<br>
 
 ### 🟡 Vue
-💪 Portfolio Site 
-[view](https://vue-project-kohl-theta.vercel.app/) [code](https://github.com/jinhomun/vue-project)<br>
+🎥 On Movie site - [GitHub](https://github.com/jinhomun/OnMovie-site)    
+[요즘 영화 궁금하시면 여기서 보세요!](https://react-project0106-439eb.web.app/)<br>
 
-### 🟢 Next.js 
-💪 Portfolio Site
-[view](https://next-project-eta-murex.vercel.app/) [code](https://github.com/jinhomun/next-project) <br>
+### 🔵 PHP
+🥼Gogyobok-site (Team Project) - [GitHub](https://github.com/jinhomun/Gogyobok-site)   
+ [전국 고등학교 교복이 궁금하시면 여기서 보세요!](http://answlsgh95.dothome.co.kr/blog_php/main/main.php) <br>
 
-### 🔵 Project
-🥼Gogyobok-site
-[code](https://github.com/jinhomun/Gogyobok-site) <br>
+### 🟠 Javascript
+💪 GSAP-ParallaxEffect - [GitHub](https://github.com/jinhomun/GSAP-ParallaxEffect)    
+  [GSAP-ParallaxEffect 궁금하시면 여기서 보세요!](https://jinhomun.github.io/webs2024/javascript/gsap/gsap01.html) <br>
+✍ Quiz -  [GitHub](https://github.com/jinhomun/GSAP-ParallaxEffect)
+<br>
+
+
+
+
+
+<h2>🔨Skill</h2>
+
+Front-End   
+
+<!-- HTML5 -->
+<img alt="Html" src="https://img.shields.io/badge/HTML5-E34F26.svg?&logo=HTML5&logoColor=white"/>
+<!-- CSS3 -->
+<img alt="Css" src="https://img.shields.io/badge/CSS3-1572B6.svg?&logo=CSS3&logoColor=white"/>
+<!-- JavaScript -->
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&logo=JavaScript&logoColor=black"/>
+<!-- jQuery -->
+<!-- React -->
+<img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361DAFB"/>
+<img alt="jQuery" src="https://img.shields.io/badge/jquery-%230769AD.svg?logo=jquery&logoColor=white"/>
+<!-- Vue.js -->
+<img alt="Vue.js" src="https://img.shields.io/badge/vuejs-%2335495e.svg?logo=vuedotjs&logoColor=%234FC08D"/>
+<!-- Vite -->
+<img alt="Vite" src="https://img.shields.io/badge/vite-%23646CFF.svg?logo=vite&logoColor=white"/>
+<!-- Next -->
+<img alt="Next" src="https://img.shields.io/badge/Next-black?logo=next.js&logoColor=white"/>
+
+Back-End
+
+<!-- NodeJS -->
+<img alt="NodeJS" src="https://img.shields.io/badge/node.js-6DA55F?logo=node.js&logoColor=white"/>
+<!-- PHP -->
+<img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?logo=php&logoColor=white"/>
+<!-- Nodemon -->
+<img alt="Nodemon" src="https://img.shields.io/badge/NODEMON-%23323330.svg?logo=nodemon&logoColor=%BBDEAD"/>
+
+Database
+
+<!-- Firebase -->
+<img alt="Firebase" src="https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white"/>
+<!-- MongoDB -->
+<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"/>
+
+Hosting
+
+<!-- Netlify -->
+<img alt="Netlify" src="https://img.shields.io/badge/netlify-%23000000.svg?logo=netlify&logoColor=#00C7B7"/>
+<!-- GitHub -->
+<img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white"/>
+<!-- Vercel -->
+<img alt="Vercel" src="https://img.shields.io/badge/vercel-%23000000.svg?logo=vercel&logoColor=white"/>
+<!-- Heroku -->
+<img alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?logo=heroku&logoColor=white"/>
+
+Api   
+
+<!-- Postman -->
+<img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"/>
+
+Design   
+<!-- Figma -->
+<img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?logo=figma&logoColor=white"/>
+
 
 <div align=center>
 
