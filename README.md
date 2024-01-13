@@ -21,7 +21,7 @@ React와 유튜브 API를 이용해 축구소식를 볼수 있는 축구 관련 
 
 💪 Portfolio Site - [GitHub](https://github.com/jinhomun/Portfolio-react)   
 Portfolio는 React와 Gsap를 이용해서 제작한 사이트입니다.    
-[제가 궁금하시면 여기서 보세요!](https://react-project0106-439eb.web.app/)<br>
+[제가 궁금하시면 여기서 보세요!](https://portfolio-react.fly.dev/)<br>
 
 ### 🟡 Vue
 🎥 On Movie site - [GitHub](https://github.com/jinhomun/OnMovie-site)    
