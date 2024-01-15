@@ -13,7 +13,7 @@ Nothing great in the world has been accomplished without passion.
 
 ### 🔴 REACT
 ⚽ Soccer Youtube - [GitHub](https://github.com/jinhomun/SoccerYoutube-site)    
-평소 축구소식에 대해서 많이 찾아보기때문에 유튜브 API를 이용해 축구소식를 볼수 있는 축구 관련 유튜브를 모아둔 축구 유튜브 사이트 입니다.<br> 
+React와 유튜브 API를 이용해 축구소식를 볼수 있는 축구 관련 유튜브를 모아둔 축구 유튜브 사이트 입니다.<br> 
 [요즘 축구소식 영상은 여기서 보세요!](https://youtube-project2023-jinhomun.netlify.app/) <br>
 
 ⚽ Kick off (Team Project) - [GitHub](https://github.com/audgns722/kickoff)
@@ -21,7 +21,7 @@ Nothing great in the world has been accomplished without passion.
 
 💪 Portfolio Site - [GitHub](https://github.com/jinhomun/Portfolio-react)   
 Portfolio는 React와 Gsap를 이용해서 제작한 사이트입니다.    
-[제가 궁금하시면 여기서 보세요!](https://react-project0106-439eb.web.app/)<br>
+[제가 궁금하시면 여기서 보세요!](https://portfolio-react.fly.dev/)<br>
 
 ### 🟠 Vue
 🎥 On Movie site - [GitHub](https://github.com/jinhomun/OnMovie-site)    
