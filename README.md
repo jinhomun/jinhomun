@@ -23,17 +23,21 @@ Nothing great in the world has been accomplished without passion.
 Portfolio는 React와 Gsap를 이용해서 제작한 사이트입니다.    
 [제가 궁금하시면 여기서 보세요!](https://react-project0106-439eb.web.app/)<br>
 
-### 🟡 Vue
+### 🟠 Vue
 🎥 On Movie site - [GitHub](https://github.com/jinhomun/OnMovie-site)    
 On Movie는 Vue.js의 기능을 활용하여 영화 정보를 편리하게 찾을 수 있는 사이트입니다.    
 [요즘 영화 궁금하시면 여기서 보세요!](https://react-project0106-439eb.web.app/)<br>
-
-### 🔵 PHP
+### 🟡 Next
+📄 Promptopia site - [GitHub](https://github.com/jinhomun/Next.js-Promptopia)   
+Promptopia는 영상을 참고해서, Next.js를 활용하여 만든  14 AI 프롬프트 공유 애플리케이션 입니다.   
+[Promptopia는 여기로 오세요!](https://next-js-promptopia-one.vercel.app/)
+[👉참고영상](https://www.youtube.com/watch?v=wm5gMKuwSYk&t=5916s)<br>
+### 🟢 PHP
 🥼Gogyobok-site (Team Project) - [GitHub](https://github.com/jinhomun/Gogyobok-site)     
 전국 고등학교의 교복을 소개하는 커뮤니티 사이트를 제작하였습니다.   
 [전국 고등학교 교복이 궁금하시면 여기서 보세요!](http://answlsgh95.dothome.co.kr/blog_php/main/main.php) <br>
 
-### 🟠 Javascript
+### 🔵Javascript
 💪 GSAP-ParallaxEffect - [GitHub](https://github.com/jinhomun/GSAP-ParallaxEffect)   
 GSAP을 사용하면 웹 페이지의 다양한 요소들을 부드럽고 멋진 애니메이션으로 만들 수 있습니다.      
 [GSAP-ParallaxEffect 궁금하시면 여기서 보세요!](https://jinhomun.github.io/webs2024/javascript/gsap/gsap01.html) <br>
