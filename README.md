@@ -16,7 +16,10 @@ Nothing great in the world has been accomplished without passion.
 React와 유튜브 API를 이용해 축구소식를 볼수 있는 축구 관련 유튜브를 모아둔 축구 유튜브 사이트 입니다.<br> 
 [요즘 축구소식 영상은 여기서 보세요!](https://youtube-project2023-jinhomun.netlify.app/) <br>
 
-⚽ Kick off (Team Project) - [GitHub](https://github.com/audgns722/kickoff)
+⚽ Kick off (Team Project) - [GitHub](https://github.com/audgns722/kickoff)<br>
+KICKOFF은 축구api를 이용하여 축구를 사랑하는 이들을 위한<br>
+유럽 5대리그 해외축구 하이라이트영상과 리그 경기일정 및 결과를 보여주는 웹사이트 입니다.<br>
+[유럽축구는 여기서 보세요!](https://kickoffproject.fly.dev/)<br>
 <br>
 
 💪 Portfolio Site - [GitHub](https://github.com/jinhomun/Portfolio-react)   
