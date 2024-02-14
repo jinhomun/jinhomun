@@ -26,6 +26,10 @@ KICKOFF은 축구api를 이용하여 축구를 사랑하는 이들을 위한<br>
 Portfolio는 React와 Gsap를 이용해서 제작한 사이트입니다.    
 [제가 궁금하시면 여기서 보세요!](https://portfolio-react.fly.dev/)<br>
 
+🎵 Music Site - [GitHub](https://github.com/jinhomun/project_music_player)<br>
+MusicSite는 shazam-api를 이용해 음악을 듣는 사이트 입니다.<br>
+[음악은 여기서 들어보세요!](https://project-music-player-moon.netlify.app/)<br>
+
 ### 🟠 Vue
 🎥 On Movie site - [GitHub](https://github.com/jinhomun/OnMovie-site)    
 On Movie는 Vue.js의 기능을 활용하여 영화 정보를 편리하게 찾을 수 있는 사이트입니다.    
